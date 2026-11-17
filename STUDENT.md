@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: Nguyenvkx
 - Repo bài nộp (URL): https://github.com/Nguyenvkx/K5-L23-Day08-2A2020603122-VoKhacXuanNguyen-AI-Assisted-Labeling
-- Commit chốt bài (hash): 
+- Commit chốt bài (hash): 3ef610d-final report
 - Máy: Windows, Python 3.12
 - CVAT (Docker):  v2.81.0
 
