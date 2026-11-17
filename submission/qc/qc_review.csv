@@ -1,0 +1,7 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,1,sai_vi_tri_kich_thuoc,Box xe ba bánh cắt mất phần mái phía trên và bên trái.,
+img_003.jpg,,bo_sot,Chưa có box riêng cho xe đạp dưới/bên cạnh người #17.,
+img_006.jpg,,bo_sot,Thiếu người quay lưng mặc áo/váy hoa vàng tím giữa người áo cam và người áo xanh lá.,
+img_014.jpg,,khong,Chưa thấy lỗi rõ ràng khi đối chiếu 18 box; cần bạn kiểm lại.,
+img_031.jpg,376,sai_vi_tri_kich_thuoc,Box xe đạp cắt mất phần giỏ/mâm hàng gắn phía sau xe ở bên trái.,
+img_035.jpg,435,sai_vi_tri_kich_thuoc,Box xích lô thiếu mái đỏ và khung phía trên.
